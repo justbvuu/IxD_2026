@@ -4,4 +4,4 @@ this is written in "Markdown". markdown is an easy-to-read language for formatti
 
 u can use *Markdown* syntax, along with some additional HTML tags to format your writing on github.
 
-link -> [memoria](url). jk
+link -> [memoria]([url](https://www.thedictionaryofobscuresorrows.com/word/walloway)).
