@@ -14,4 +14,4 @@ images!
 
 ### Journal Example
 
-here is a journal example yada yada yada
+here is a journal example yada yada yada [meow](journall/8.20.2026.md)
